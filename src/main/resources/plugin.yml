@@ -1,0 +1,6 @@
+name: SpigSh
+version: 1.0
+main: co.insou.spigsh.SpigSh
+
+commands:
+  sh:
